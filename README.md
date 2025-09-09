@@ -44,5 +44,5 @@ The system uses **Prolog predicates**, `findall/3`, and `bagof/3` to generate st
 ### Execution
 1. Clone this repository:
    ```bash
-   git clone https://github.com/<your-user>/vehicle-sales-prolog.git
+   git clone https://github.com/Dannyntt/vehicle-sales-prolog.git
    cd vehicle-sales-prolog
